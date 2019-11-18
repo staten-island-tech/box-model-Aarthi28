@@ -1,0 +1,12 @@
+div{
+    font-family: 'Calistoga', cursive;
+}
+
+div h1{
+    text-transform: uppercase;
+}
+
+.header {
+    height: 100vh;
+    background-color: linear-gradie ;
+}
